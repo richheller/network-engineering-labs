@@ -11,6 +11,20 @@
 
 <br>
 
+
+
+<br>
+
+
+
+### Introduction
+
+Open Shortest Path First (OSPF) routing protocol is an open-source link state routing protocol. OSPF routers run the Dijistra shortest path first (SPF) algorithm to calculate lowest path cost through the network.
+
+Reference: Cisco CCNP and CCIE Enterprise Core ENCOR 350-401 Official Cert Guide
+
+I created this topology from scratch on a server I host myself running CML.
+
 ## Topology
 
 
