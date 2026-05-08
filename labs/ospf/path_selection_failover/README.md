@@ -63,7 +63,13 @@ Next, the OSPF cost on the direct R1 to R4 path is increased to influence SPF pa
 <img width="256" height="63" alt="image" src="https://github.com/user-attachments/assets/a9b9786b-a7fa-4b3f-85e0-3e4cc0f6345f" />
 <br><br>
 
-After the cost change, OSPF recalculates the topology and selects the lower-cost-path through R2.
+After the cost change, OSPF recalculates the topology and selects the lower-cost-path through R2 via 10.0.12.0/30 to 10.0.12.2.
 <br><br>
 <img width="543" height="135" alt="image" src="https://github.com/user-attachments/assets/aa106e14-8454-47d3-ba35-bd0899254e09" />
+
+<br><br><br>
+
+Now we shut down the preferred link int g0/0.
+
+<br><br><br>
 
