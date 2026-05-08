@@ -28,7 +28,9 @@ I created this topology from scratch on a server I host myself running CML.
 ## Topology
 
 
-  <img width="950" height="423" alt="image" src="https://github.com/user-attachments/assets/922e5f58-ee8b-48cf-be34-afb16f902b7d" />
+ 
+  <img width="539" height="157" alt="image" src="https://github.com/user-attachments/assets/2600c272-a503-4fe5-913f-2f71a644e074" />
+
 
 
 ### configure OSPF, form adjacencies 
