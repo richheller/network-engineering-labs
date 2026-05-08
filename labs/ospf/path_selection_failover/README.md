@@ -24,4 +24,5 @@
 
 ### check existing ip route
 
-<img width="686" height="462" alt="image" src="https://github.com/user-attachments/assets/caf06859-f0cf-4639-a726-6277d4318acc" />
+<img width="639" height="445" alt="image" src="https://github.com/user-attachments/assets/64fdb10c-71b5-4fc1-a9d3-008bd882f9ca" />
+
