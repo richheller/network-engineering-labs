@@ -72,4 +72,7 @@ After the cost change, OSPF recalculates the topology and selects the lower-cost
 Now we shut down the preferred link int g0/0.
 
 <br><br><br>
+<img width="1156" height="155" alt="image" src="https://github.com/user-attachments/assets/d3fcc0d2-5772-465d-8b0a-6a1d12a2fff0" />
+
+<br><br>
 
