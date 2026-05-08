@@ -3,19 +3,8 @@
 
 ## under construction
 
-
-
 - OSPF neighbor adjacency
 - SPF path selection
-
-
-<br>
-
-
-
-<br>
-
-
 
 ### Introduction
 
