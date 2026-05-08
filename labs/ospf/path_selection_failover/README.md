@@ -47,5 +47,5 @@ sh ip route to 4.4.4.4
 <img width="541" height="163" alt="image" src="https://github.com/user-attachments/assets/1e4a1e5a-6e55-4f82-8cdc-e2283a874474" />
 
 <img width="351" height="115" alt="image" src="https://github.com/user-attachments/assets/78c6443b-e08e-4e56-8659-40ff019f3d77" />
-
+<br><Br>
 Current path selection R1 to R4 is direct to R4 via 10.0.14.0/30.
