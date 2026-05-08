@@ -59,10 +59,10 @@ Initialy, path selection to R4 is direct to R4 via 10.0.14.0/30 to 10.0.14.2.
 Next, the OSPF cost on the direct R1 to R4 path is increased to influence SPF path selection.
 
 
-## image
-<img width="256" height="63" alt="image" src="https://github.com/user-attachments/assets/a9b9786b-a7fa-4b3f-85e0-3e4cc0f6345f" />
 
+<img width="256" height="63" alt="image" src="https://github.com/user-attachments/assets/a9b9786b-a7fa-4b3f-85e0-3e4cc0f6345f" />
+<br><br>
 
 After the cost change, OSPF recalculates the topology and selects the lower-cost-path through R2.
-
+<br><br>
 
