@@ -65,4 +65,5 @@ Next, the OSPF cost on the direct R1 to R4 path is increased to influence SPF pa
 
 After the cost change, OSPF recalculates the topology and selects the lower-cost-path through R2.
 <br><br>
+<img width="543" height="135" alt="image" src="https://github.com/user-attachments/assets/aa106e14-8454-47d3-ba35-bd0899254e09" />
 
