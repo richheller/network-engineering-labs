@@ -28,8 +28,9 @@ I created this topology from scratch on a server I host myself running CML.
 ## Topology
 
 
- 
-  <img width="539" height="157" alt="image" src="https://github.com/user-attachments/assets/2600c272-a503-4fe5-913f-2f71a644e074" />
+ <img width="873" height="408" alt="image" src="https://github.com/user-attachments/assets/408161da-f9ed-4c57-8af7-67e2301a42f6" />
+
+  
 
 
 
