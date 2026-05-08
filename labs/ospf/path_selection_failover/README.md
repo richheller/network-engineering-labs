@@ -79,3 +79,5 @@ Now we shut down the preferred link int g0/0.
 
 <br><br>
 
+<img width="539" height="157" alt="image" src="https://github.com/user-attachments/assets/38ce7295-18cc-4374-a3f6-54a5f72ea97a" />
+
