@@ -27,3 +27,5 @@
 | R2-R3 | 10.0.23.0/30 |
 | R3-R4 | 10.0.34.0/30 |
 <br>
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/Screenshot%202026-05-10%20141032_R2.png"
+<br>
