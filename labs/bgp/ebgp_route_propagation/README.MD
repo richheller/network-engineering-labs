@@ -39,3 +39,5 @@
 <br>
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/Screenshot%202026-05-10%20144343_shipbgp.png">
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/Screenshot%202026-05-10%20143938_iproutebgp.png">
+<br>
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/Screenshot%202026-05-10%20144715ping1111.png">
