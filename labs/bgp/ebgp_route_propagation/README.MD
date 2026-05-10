@@ -9,14 +9,14 @@
 <br>
 ## Autonomous Systems
 <br>
-R1 - AS65001
-<br>
-R2 - AS65002
-<br>
-R3 - AS65003
-<br>
-R4 - AS65004
 
+
+| Router | ASN |
+|--------|------|
+| R1 | 65001 |
+| R2 | 65002 |
+| R3 | 65003 |
+| R4 | 65004 |
 <br>
 ## Networks
 <br>
