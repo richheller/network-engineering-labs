@@ -27,17 +27,17 @@
 | R2-R3 | 10.0.23.0/30 |
 | R3-R4 | 10.0.34.0/30 |
 <br>
-<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/Screenshot%202026-05-10%20141032_R2.png"><img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/Screenshot%202026-05-10%20141110_R3.png">
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/screenshots/Screenshot%202026-05-10%20141032_R2.png"><img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/screenshots/Screenshot%202026-05-10%20141110_R3.png">
 <br>
-<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/Screenshot%202026-05-10%20142126_bgp%20summ.png">
-<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/Screenshot%202026-05-10%20142239_bgp%20summary%20r3.png">
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/screenshots/Screenshot%202026-05-10%20142126_bgp%20summ.png">
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/screenshots/Screenshot%202026-05-10%20142239_bgp%20summary%20r3.png">
 <br>
-<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/Screenshot%202026-05-10%20142926_r2_.png">
-<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/Screenshot%202026-05-10%20143528__r3.png">
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/screenshots/Screenshot%202026-05-10%20142926_r2_.png">
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/screenshots/Screenshot%202026-05-10%20143528__r3.png">
 <br><br>
-<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/Screenshot%202026-05-10%20140102_22.png">
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/screenshots/Screenshot%202026-05-10%20140102_22.png">
 <br>
-<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/Screenshot%202026-05-10%20144343_shipbgp.png">
-<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/Screenshot%202026-05-10%20143938_iproutebgp.png">
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/screenshots/Screenshot%202026-05-10%20144343_shipbgp.png">
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/screenshots/Screenshot%202026-05-10%20143938_iproutebgp.png">
 <br>
-<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/Screenshot%202026-05-10%20144715ping1111.png">
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/screenshots/Screenshot%202026-05-10%20144715ping1111.png">
