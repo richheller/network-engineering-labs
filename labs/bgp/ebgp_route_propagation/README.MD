@@ -5,7 +5,7 @@
 ### under construction
 
 
-<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/Screenshot%202026-05-10%20140102_22.png">
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/bgp/ebgp_route_propagation/screenshots/Screenshot%202026-05-10%20140102_22.png">
 <br>
 ### Autonomous Systems
 <br>
