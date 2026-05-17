@@ -19,7 +19,15 @@ I created this topology from scratch on a server I host myself running CML.
 
  <img width="873" height="408" alt="image" src="https://github.com/user-attachments/assets/408161da-f9ed-4c57-8af7-67e2301a42f6" />
 
-  
+  R1 has two possible paths to reach R4:
+  <br>
+  Direct link: R1 -> R4
+  <br>
+  Indirect path: R1 -> R2 -> R3 -> R4 
+<br>
+  OSPF initially selects the lowest cumulative cost path.
+  <br>
+  Interface cost changes are then used to influence SPF calculation and the traffic flow.
 
 
 
