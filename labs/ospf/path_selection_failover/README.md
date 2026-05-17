@@ -92,7 +92,7 @@ Now we shut down the preferred link int g0/0.
 
 <img width="539" height="157" alt="image" src="https://github.com/user-attachments/assets/38ce7295-18cc-4374-a3f6-54a5f72ea97a" />
 <br>
-path selection to R4 is now direct to R4 via 10.0.14.0/30 to 10.0.14.2.
+Path selection to R4 is now direct to R4 via 10.0.14.0/30 to 10.0.14.2 despite higher cost.
 <br>
 This lab demonstrates that OSPF dynamically reconverges after topology changes or interface failures.
 
