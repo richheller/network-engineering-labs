@@ -55,11 +55,12 @@ R4 -> 4.4.4.4/32
 <img width="637" height="577" alt="image" src="https://github.com/user-attachments/assets/f4aeef3d-89d9-4e39-8758-f053d9507315" />
 
 sh ip route to 4.4.4.4 
+<br>
 <img width="541" height="163" alt="image" src="https://github.com/user-attachments/assets/1e4a1e5a-6e55-4f82-8cdc-e2283a874474" />
 
 
 <br><Br>
-Initialy, path selection to R4 is direct to R4 via 10.0.14.0/30 to 10.0.14.2.
+Initially, path selection to R4 is direct to R4 via 10.0.14.0/30 to 10.0.14.2.
 <br><Br>
 <img width="351" height="115" alt="image" src="https://github.com/user-attachments/assets/78c6443b-e08e-4e56-8659-40ff019f3d77" />
 
