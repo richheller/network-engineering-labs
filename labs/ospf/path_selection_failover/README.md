@@ -32,7 +32,18 @@ I created this topology from scratch on a server I host myself running CML.
 
 
 ### configure OSPF, form adjacencies 
-setting loopback 0 interfaces to 1.1.1.1, 2.2.2.2 etc.
+Configured OSPF process 1 on all routers and advertised connected interfaces.
+<br>
+Loopback interfaces were added to simulate router IDs and internal networks.
+<br>
+R1 -> 1.1.1.1/32
+<br>
+R1 -> 2.2.2.2/32
+<br>
+R3 -> 3.3.3.3/32
+<br>
+R4 -> 4.4.4.4/32
+<br>
  OSPF networks
 
 <img width="753" height="128" alt="image" src="https://github.com/user-attachments/assets/e206eba6-731e-44f8-9268-3891d17202ad" />
