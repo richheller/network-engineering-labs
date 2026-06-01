@@ -24,9 +24,10 @@ PAT configured using outside interface address with overload
 <br>
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/nat/pat_overload/diagrams/patoverloadstats.jpg">
 <br>
+
+
 ## Verification
 ```
 show ip nat translations
 show ip nat statistics
-
 ```
