@@ -20,4 +20,4 @@ ip route add default via 192.168.1.1
 <br>
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/fhrp/vrrp/diagrams/r1shutvrrp.jpg">
 <br>
-<img src="">
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/fhrp/vrrp/diagrams/R2nowmaster.jpg">
