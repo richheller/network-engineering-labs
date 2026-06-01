@@ -13,8 +13,6 @@ Inside Global: 10.0.12.1
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/nat/static_nat/diagrams/nat%20static%20v1.png?raw=true">
 ## Verification
 
-<br>
-verified translation using:<br>
 ```
 show ip nat translations<br>
 show ip nat statistics
