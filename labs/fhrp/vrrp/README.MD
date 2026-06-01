@@ -1,6 +1,6 @@
 ## VRRP lab
 
-<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/fhrp/vrrp/diagrams/vrrpv1.jpg">
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/fhrp/vrrp/diagrams/vrrpv.jpg">
 <br>
 
 ### Server config
