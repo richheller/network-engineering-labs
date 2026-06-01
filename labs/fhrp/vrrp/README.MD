@@ -1,2 +1,2 @@
-## VRRP
+## VRRP lab
 
