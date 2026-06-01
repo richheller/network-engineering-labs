@@ -16,5 +16,5 @@ ip route add default via 192.168.1.1
 ```
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/fhrp/vrrp/diagrams/r1vrrpbrief.jpg">
 <br>
-<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/fhrp/vrrp/diagrams/r2vrrpbrief.jpg">
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/fhrp/vrrp/diagrams/r2vvrpbrief.jpg">
 <br>
