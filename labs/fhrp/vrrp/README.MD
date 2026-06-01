@@ -1,5 +1,8 @@
 ## VRRP lab
 
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/fhrp/vrrp/diagrams/vrrpv1.jpg">
+<br>
+
 ### Server config
 ```
 sudo ifconfig eth0 203.0.113.2 netmask 255.255.255.0 up
