@@ -14,7 +14,7 @@ Inside Global: 10.0.12.1
 ## Verification
 
 ```
-show ip nat translations<br>
+show ip nat translations
 show ip nat statistics
 ```
 <br>
