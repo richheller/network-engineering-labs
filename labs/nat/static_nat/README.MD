@@ -1,11 +1,12 @@
 
 
-<br><br>
+
 
 ## Translation
+```
 Inside Local: 192.168.1.101
 Inside Global: 10.0.12.1
-
+```
 
 
 <br><br>
