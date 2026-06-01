@@ -17,7 +17,7 @@ ip route add default via 192.168.1.1<br>
 
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/fhrp/hsrp/hsrp_failover/diagrams/R1standby.jpg">
 
-<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/fhrp/hsrp/hsrp_failover/diagrams/R2%20active.jpg">
+
 
 
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/fhrp/hsrp/hsrp_failover/diagrams/R2standby.jpg">
@@ -25,6 +25,8 @@ ip route add default via 192.168.1.1<br>
 
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/fhrp/hsrp/hsrp_failover/diagrams/R1shut.jpg">
 
+
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/fhrp/hsrp/hsrp_failover/diagrams/R2%20active.jpg">
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/fhrp/hsrp/hsrp_failover/diagrams/R2active.jpg">
 
 
