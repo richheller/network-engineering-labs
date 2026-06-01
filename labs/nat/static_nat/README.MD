@@ -15,8 +15,10 @@ Inside Global: 10.0.12.1
 
 <br>
 verified translation using:<br>
-- show ip nat translations<br>
-- show ip nat statistics
+```
+show ip nat translations<br>
+show ip nat statistics
+```
 <br>
 Traffic from Linux host successfully translated from 192.168.1.101 to 10.0.12.1.
 
