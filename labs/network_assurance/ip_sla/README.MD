@@ -4,7 +4,7 @@
 ### IP SLA
 
 <br>
-<img src="">
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/network_assurance/ip_sla/diagrams/ipslatopology.jpg">
 
 
 
