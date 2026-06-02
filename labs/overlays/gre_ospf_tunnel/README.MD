@@ -19,3 +19,5 @@ show interface tunnel0
 sh ip ospf neighbor
 sh ip route ospf
 ```
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/overlays/gre_ospf_tunnel/diagrams/shtunnel0.jpg">
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/overlays/gre_ospf_tunnel/diagrams/shipospfneighborgretunnel.jpg">
