@@ -3,7 +3,7 @@
 # GRE Tunnel with OSPF
 
 ## Objective 
-Configure and verifiy a GRE tunnel between two routers and establish an OSPF adjacency across the tunnel.
+Configure and verify a GRE tunnel between two routers and establish an OSPF adjacency across the tunnel.
 
 ## Verification
 
