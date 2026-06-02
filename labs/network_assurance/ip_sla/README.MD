@@ -22,7 +22,7 @@ show track
 ```
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/network_assurance/ip_sla/diagrams/ipslastats1.jpg">
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/network_assurance/ip_sla/diagrams/shtrack1.jpg">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/network_assurance/ip_sla/diagrams/shslastatistics.jpg">
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/network_assurance/ip_sla/diagrams/shutdown.jpg">
+
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/network_assurance/ip_sla/diagrams/result.jpg">
