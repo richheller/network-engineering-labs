@@ -2,7 +2,7 @@
 
 # GRE Tunnel with OSPF
 
-<img src="">
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/overlays/gre_ospf_tunnel/diagrams/gre_tunnel.jpg">
 
 ## Objective 
 Configure and verify a GRE tunnel between two routers and establish an OSPF adjacency across the tunnel.
