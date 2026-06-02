@@ -7,7 +7,7 @@
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/network_assurance/ip_sla/diagrams/ipslatopology.jpg">
 
 ### Objective
-Configure IP SLA on R1 to continuosly monitor reachability of 203.0.113.2.
+Configure IP SLA on R1 to continuously monitor reachability of 203.0.113.2.
 SLA operation performs an ICMP echo every 5 seconds and is tied to a track object.
 When connectivity is interrupted, track object changes state from Up to Down.
 
