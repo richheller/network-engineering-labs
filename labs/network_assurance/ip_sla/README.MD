@@ -4,7 +4,8 @@
 ### IP SLA
 
 <br>
-
+<img src="">
+<br>
 ```
 ip sla 1
 icmp-echo 203.0.113.2 source-interface g0/1
