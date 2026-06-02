@@ -9,9 +9,9 @@ Configure and verify a GRE tunnel between two routers and establish an OSPF adja
 
 ## Verification
 
--Tunnel0 up/up
--OSPF neighbor state FULL
--Reachability between loopbacks
+-Tunnel0 up/up<br>
+-OSPF neighbor state FULL<br>
+-Reachability between loopbacks<br>
 
 ## Key Commands
 ```
