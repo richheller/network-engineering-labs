@@ -13,5 +13,5 @@ frequency 5
 ip sla schedule 1 start-time now
 
 show ip sla statistics
-show ip sla track
+show track
 ```
