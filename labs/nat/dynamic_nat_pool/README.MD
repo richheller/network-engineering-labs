@@ -3,6 +3,20 @@
 
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/nat/dynamic_nat_pool/diagrams/dynnattopology.jpg">
 
+## Verification
+```
+show run | section ip nat
+show access-lists
+show ip nat translations
+show ip nat statistics
+```
+
+Results
+<br>
+- Three inside hosts successfully reached the server<br>
+- Dynamic translations were allocated from INTERNET_POOL<br>
+- NAT statistics confirmed pool utilization<br>
+- End-to-end connectivity verified<br>
 
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/nat/dynamic_nat_pool/diagrams/secipnat.jpg">
 
