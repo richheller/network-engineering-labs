@@ -12,5 +12,6 @@
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/nat/dynamic_nat_pool/diagrams/intg01.jpg">
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/nat/dynamic_nat_pool/diagrams/dynnattrans.jpg">
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/nat/dynamic_nat_pool/diagrams/dynatstats.jpg">
+<img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/nat/dynamic_nat_pool/diagrams/pingresult.jpg">
 
 
