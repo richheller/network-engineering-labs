@@ -3,7 +3,13 @@
 
 <img src="https://github.com/richheller/network-engineering-labs/blob/main/labs/nat/dynamic_nat_pool/diagrams/dynnattopology.jpg">
 
-## Verification
+### Objective
+Configure dynamic NAT using a public address pool and verify address allocation for multiple inside hosts.
+
+<br>
+Three inside hosts were dynamically assigned public IP addresses from INTERNET_POOL.
+
+### Verification
 ```
 show run | section ip nat
 show access-lists
